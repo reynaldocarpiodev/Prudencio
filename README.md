@@ -1,2 +1,2 @@
-# Prudencio
-el es prudencio tu amigo
+# Pancrasio-el-bot
+El es Pancrasio, tu amigo

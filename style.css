@@ -1,0 +1,22 @@
+header{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+
+section{
+    background-color: rgb(141, 234, 200);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+
+}
+
+footer{
+    background-color: rgb(216, 175, 255);
+    text-align: center;
+    padding: 10px;
+}
